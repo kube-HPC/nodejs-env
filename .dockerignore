@@ -1,0 +1,6 @@
+dockerfile
+algorithm_unique_folder
+node_modules
+.travis.yml
+.git
+.gitignore
